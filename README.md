@@ -10,4 +10,4 @@ The downloadable Excel file includes an example with XIRRIF calculated for 5 fun
 
 Screenshot:
 
-![Screenshot-Example-1](/assets/Screenshot-Example.png)
+![Screenshot-Example](/assets/Screenshot-Example.png)
